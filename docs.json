@@ -1,6 +1,5 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
   "name": "Connector Docs",
   "colors": {
     "primary": "#2DD4BF",
